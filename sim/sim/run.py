@@ -11,8 +11,8 @@ import tqdm
 
 import yaml
 
-import sys
-sys.path.append("C:\\Users\\Michael\\Desktop\\recsys\\recsys-itmo-spring-2023\\sim")
+# import sys
+# sys.path.append("C:\\Users\\Michael\\Desktop\\recsys\\recsys-itmo-spring-2023\\sim")
 
 from sim.agents import Recommender, DummyRecommender, RemoteRecommender
 from sim.agents.console import ConsoleRecommender
